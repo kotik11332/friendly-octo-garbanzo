@@ -365,7 +365,7 @@ button[type='submit']:hover {
 
 .footer {
 	background-color: #033e5c;
-	padding: 60px 0 50px;
+	padding: 40px 0 40px;
 	color: #fff;
 	text-align: center; /* Центрирование содержимого */
 	margin-top: 70px;
